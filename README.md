@@ -25,11 +25,3 @@ python image_test.py tes.jpg```
 
 #### Image testing example 
 ![result_emotion_detection_app](https://user-images.githubusercontent.com/12840374/36295924-8380b372-1310-11e8-8646-2157f6ea98f5.jpg)
-
-#### Demo Image example
-
-![b08394_11_42](https://user-images.githubusercontent.com/12840374/36353364-bfe558a4-14eb-11e8-9649-7a421bea7772.png)
-
-
-## Credit
-This code credit goes to [adamaulia](https://github.com/adamaulia). I've merely created a wrapper to get people started.
