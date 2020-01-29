@@ -23,5 +23,3 @@ and put in keras_model file
 2. For detecting the facial expression in image you can execute the command ```
 python image_test.py tes.jpg```
 
-#### Image testing example 
-![result_emotion_detection_app](https://user-images.githubusercontent.com/12840374/36295924-8380b372-1310-11e8-8646-2157f6ea98f5.jpg)
