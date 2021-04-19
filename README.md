@@ -1,4 +1,4 @@
-# facial_emotion_recognition
+# Facial_emotion_recognition
  
 This repository contain facial expression using cnn, you can also use webcam as realtime facial expression detection. 
 
